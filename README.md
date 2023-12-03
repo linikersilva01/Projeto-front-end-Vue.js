@@ -1,10 +1,10 @@
 <h1 align="center">
-  Front-end Estante Virtual
+  Front-end Estante Virtual - Vue.Js
 </h1>
 
-<p align="center">
-  <img src=".github/vite.svg" width="100%" />
-</p>
+
+![image](https://github.com/linikersilva01/Projeto-Vue.js/assets/111355226/1e99c04a-30d8-4d39-8e62-7e55d761fe11)
+
 
 
 ## Projeto Vue
